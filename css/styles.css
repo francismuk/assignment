@@ -1,0 +1,12 @@
+h1 {
+  color: blue
+}
+.aboutme { background-color: yellow }
+.projects { background-color: pink }
+.important { color: red }
+.unimportant {color: green }
+@media screen and (min-width: 480px) {
+    body {
+        background-color: pink;
+        color: black;
+    }
