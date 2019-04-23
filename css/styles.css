@@ -1,16 +1,7 @@
 h1 {
   color: blue
 }
-.aboutme { background-color: yellow;
-           float: right;
-        width: 101% }
+.aboutme { background-color: yellow}
 .projects { background-color: pink }
 .important { color: red }
 .unimportant {color: green }
-@media screen and (min-width: 480px) {
-  img {
-  }
-    body {
-        background-color: black;
-        color: black;
-   }
