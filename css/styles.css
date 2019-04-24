@@ -5,3 +5,5 @@ h1 {
 .projects { background-color: pink }
 .important { color: red }
 .unimportant {color: green }
+ @media screen { background-color: blue;}
+ 

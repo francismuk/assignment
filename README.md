@@ -1,6 +1,7 @@
 # {Francis Mukuha Independent project}
 #### {This application is about me and some examples of projects I've done}, {21st April 2019}
 #### By **{Francis Wambugu Mukuha}**
+Live link on github: https://francismuk.github.io/assignment/francis1.html
 ## Description
 {This application is a website that I have developed explaining the things I love and also a list of projects I have completed with their links. Its purpose is to explain myself and also a practice aid for me as I learn HTML. It is in HTML form. }
 ## Setup/Installation Requirement
